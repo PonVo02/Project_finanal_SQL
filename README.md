@@ -315,3 +315,11 @@ Throughout this adventure, I've turbocharged my SQL toolkit with some serious fi
 
 # Conclusions 
 
+### Insight
+- Core skills remain non-negotiable. Across the remote market, SQL, Excel, Python, and BI tools (Tableau/Power BI) consistently dominate demand. These skills form the baseline for getting interviews because they map directly to day-to-day analyst work: querying, cleaning, analyzing, and communicating results.
+- Higher salaries correlate with “analytics + platform” roles. Skills associated with higher average pay—such as Snowflake, AWS/Azure, BigQuery, Spark/Hadoop, Databricks/Airflow—suggest that better-compensated positions often sit closer to data engineering and cloud ecosystems, where analysts work with larger data volumes, pipelines, and warehouses.
+- The most “optimal” path is a balance of demand and salary. When combining demand and compensation (Query 5), the best ROI skills are not the rare niche tools, but the ones that are frequently requested and still pay well—notably Python, Tableau, and R, supported by one cloud/warehouse skill to raise the salary ceiling.
+
+### Closign Thoughts
+
+This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerfing trends in the field of data analytics.
